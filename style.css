@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+}
+h2 {
+  text-align: center;
+  font-style: italic;
+}
+.history {
+  font-family: "Nunito", sans-serif;
+  margin: 50px 50px;
+  padding: 10px;
+  text-align: center;
+}
+.inputItens {
+  text-align: center;
+}
+.input-group {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+}
+.learnMore {
+  text-align: center;
+}
